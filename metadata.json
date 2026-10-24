@@ -1,0 +1,6 @@
+{
+  "name": "DocuGrid",
+  "description": "Modern Data Management and Document Workspace app with spreadsheet grid, CRUD operations, advanced search, sorting, filtering, rich text notes, and CSV export/import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

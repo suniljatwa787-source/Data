@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Card Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 L64,24 L76,36 L76,82 C76,84.2 74.2,86 72,86 L32,86 C29.8,86 28,84.2 28,82 L28,28 C28,25.8 29.8,24 32,24 Z" />
+    <!-- Folded Corner -->
+    <path
+        android:fillColor="#D8F3E5"
+        android:pathData="M64,24 L76,36 L64,36 Z" />
+    <!-- Table Grid Header Bar -->
+    <path
+        android:fillColor="#1B6C47"
+        android:pathData="M34,42 L70,42 L70,47 L34,47 Z" />
+    <!-- Grid Row 1 -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M34,51 L48,51 L48,56 L34,56 Z" />
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M52,51 L70,51 L70,56 L52,56 Z" />
+    <!-- Grid Row 2 -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M34,60 L48,60 L48,65 L34,65 Z" />
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M52,60 L70,60 L70,65 L52,65 Z" />
+    <!-- Grid Row 3 -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M34,69 L48,69 L48,74 L34,74 Z" />
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M52,69 L70,69 L70,74 L52,74 Z" />
+    <!-- Pen / Edit Badge Accent -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M66,74 L78,62 L82,66 L70,78 Z" />
+    <path
+        android:fillColor="#B9F6CA"
+        android:pathData="M64,80 L66,74 L70,78 Z" />
+</vector>
